@@ -1,4 +1,4 @@
-# Today I Learned, non-technical edition.
+# **Today I Learned** | Non-technical edition
 
 ## Index:
 
