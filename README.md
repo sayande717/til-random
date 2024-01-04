@@ -1,7 +1,17 @@
 # Today I Learned, non-technical edition.
 
 ## Index:
-- [Cooking](#cooking)
+
+| ID | Topic |
+|----------|----------|
+| 0 | General |
+| 1 | [Cooking](#cooking) |
+
+<hr>
 
 ### Cooking
-- [Chicken curry](./cooking/chicken-curry.md)
+
+| What's | Cooking | Today? |
+|----------|----------|----------|
+| <p align="center"> <a href="./cooking.md#chicken-curry"> Chicken Curry </p> <img src="./assets/0-no-image.png" alt="Example Image" width="200" height="200"> </a> | | |
+

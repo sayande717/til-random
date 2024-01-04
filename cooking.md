@@ -1,6 +1,10 @@
-# **Chicken Curry**
+# Chicken Curry
 
-## Ingredients:
+<p align="center">
+    <img src="./assets/0-no-image.png" alt="Chicken Curry" width="250" height="250">
+</p>
+
+## Ingredients
 - Food items:
     - `chicken` [medium cut]
     - `onion`, `garlic`, `ginger`, `chilli` [for masala]
@@ -14,7 +18,7 @@
 - `30 minutes` (preparation)
 - `1 hour` (cooking)
 
-## Steps:
+## Steps
 1. Prepare the paste for the chicken.
     - Cut the onion, garlic, ginger.
     - Make a paste out of it.
