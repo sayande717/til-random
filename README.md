@@ -6,7 +6,7 @@
 |----------|----------|
 | 0 | General |
 | 1 | [Cooking](#cooking) |
-| 2 | [M.Tech](#m-tech) |
+| 2 | [M.Tech](#m-tech-master-of-technology) |
 
 <hr>
 
@@ -18,6 +18,6 @@
 
 <hr>
 
-## M.Tech (Masters of Technology)
+## M.Tech (Master of Technology)
 - [Admission Tests](./m-tech.md#admission-tests)
 
