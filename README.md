@@ -5,8 +5,8 @@
 | ID | Topic |
 |----------|----------|
 | 0 | General |
-| 1 | [Cooking](#cooking) |
-| 2 | [M.Tech](#m-tech-master-of-technology) |
+| 1 | [Cooking](./cooking.md) |
+| 2 | [M.Tech](./m-tech.md) |
 
 <hr>
 
