@@ -7,6 +7,8 @@
 | **VITMEE** \[Vellore Institute of Technology Masters Entrance Examination\] | VIT Vellore | [**Registration**](https://admissions.vit.ac.in/mtechapplication/login) \| [Syllabus](https://vit.ac.in/sites/default/files/vitmee/VITMEE-M.TechMCA-Syllabus-2023.pdf) \| [Date List](https://vit.ac.in/all-courses/pg/m.tech-programmes) // [Admission](https://vit.ac.in/all-courses/pg/m.tech-programmes) \| [M.Tech CSE](https://vit.ac.in/schools/school-of-computer-science-and-engineering-for-pg-courses) | till `28.04.24` (done) | TBA | `05.05.24`, `14:30-16:30` | `12.05.24` - `14.05.24` | `24.05.24` |
 | **PGEE** \[Post Graduate Entrance Examination\] | IIIT, Hyderabad | \[**Registration**\] \| [Syllabus](https://pgadmissions.iiit.ac.in/monsoon_syllabus/) \| \[Date List\] // [M.Tech CSE](https://www.iiit.ac.in/academics/postgraduate/mtech/cse/) \| [M.Tech CSIS](https://www.iiit.ac.in/academics/postgraduate/mtech/csis/) \| [PGEE](https://pgadmissions.iiit.ac.in/pgee/) | `17.02.24` (Tentative) | `06.03.24` (Tentative) | `06.05.24` (Tentative) | TBA | TBA |
 | **BITS HD** \[BITS Higher Degree\] | BITS Pilani | \[**Registration**\] \| [Syllabus (Page 14,29-30), Date List](https://www.bitsadmission.com/2023/hd/HD_Brochure_2023_24.pdf?2452022) // [BITS HD Important Dates](https://www.bitsadmission.com/hdmain.aspx?id=1262015#Impdates) | `20.03.24` (Tentative) | TBA | `20.05.24` and `27.05.24` (Tentative) | TBA | TBA |
+| **KIITEE** | Kalinga Institute of Industrial Technology | [Registration](https://kiitee.eduquity.com/KIIT_2024/KIITEE_REG_2024/Relogin.aspx) \| [Syllabus](https://kiitee.kiit.ac.in/test-syllabus/) | till `10.03.24` | TBA | `20.03.24` to `24.03.24` (Tentative) | TBA | TBA |
+
 
 ## Syllabus
 
