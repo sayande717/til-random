@@ -15,7 +15,7 @@
 
 | What's | Cooking | Today? |
 |----------|----------|----------|
-| <p align="center"> <a href="./cooking.md#chicken-curry"> Chicken Curry </p> <img src="./assets/0-no-image.png" alt="Example Image" width="200" height="200"> </a> | | |
+| <p align="center"> <a href="./cooking.md#chicken-curry"> Chicken Curry </p> <img src="./assets/0-no-image.png" alt="Chicken Curry" width="200" height="200"> </a> | <p align="center"> <a href="./cooking.md#egg-omelette"> Egg Omelette </p> <img src="./assets/0-no-image.png" alt="Egg Omelette" width="200" height="200"> </a> | |
 
 <hr>
 
