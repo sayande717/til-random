@@ -8,6 +8,7 @@
 | 1 | [Cooking](./cooking.md) |
 | 2 | [M.Tech](./m-tech.md) |
 | 3 | [Tech Events](./tech-events.md) |
+| 4 | [Projects](./projects.md) |
 
 <hr>
 
